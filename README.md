@@ -3,15 +3,19 @@
 <a href="https://www.linkedin.com/in/tanharpatel/">
   <img align="center" alt="Tanha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+&nbsp
 <a href="https://github.com/tanharpatel">
   <img align="center" alt="Tanha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+&nbsp
 <a href="https://www.hackerrank.com/coder_geek_29">
   <img align="center" alt="Tanha's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+&nbsp
 <a href="https://twitter.com/tanharpatel">
   <img align="center" alt="Tanha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+&nbsp
 <br/>
 
 ## About me :mortar_board:

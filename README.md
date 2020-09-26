@@ -1,4 +1,5 @@
-# Hi! There :wave:
+# Hi! There :wave: 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanharpatel.tanharpatel)
 
 <a href="https://www.linkedin.com/in/tanharpatel/">
   <img align="center" alt="Tanha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -30,3 +31,5 @@ I am student at CHARUSAT. I love exploring technologies what I do most of the ti
 -  **Fact :** First solve the problem, then write the code :heart:
 
 ---
+
+![](https://github-readme-stats.vercel.app/api?username=tanharpatel&show_icons=true&hide=issues&count_private=true&include_all_commits=true&show_owner=true&bg_color=ffffff&title_color=ff9933&icon_color=000080&text_color=138808)

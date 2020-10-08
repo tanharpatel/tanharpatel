@@ -25,11 +25,11 @@ I am student at CHARUSAT. I love exploring technologies what I do most of the ti
 ---
 
 -  **Working :** Flutter :blue_heart: | Android
--  **Learning :** React-Native <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+-  **Learning :** GCP | AWS | React-Native <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 -  **Languages :** C++, C, Dart, JAVA
 -  **Hobbies :** Coding :computer: & Sketching :sparkles:
 -  **Fact :** First solve the problem, then write the code :heart:
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=tanharpatel&show_icons=true&hide=issues&count_private=true&include_all_commits=true&show_owner=true&bg_color=ffffff&title_color=ff9933&icon_color=000080&text_color=138808)
+![](https://github-readme-stats.vercel.app/api?username=tanharpatel&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&bg_color=ffffff&title_color=ff9933&icon_color=000080&text_color=138808)

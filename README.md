@@ -29,8 +29,8 @@ I am student at CHARUSAT. I love exploring technologies what I do most of the ti
 ---
 
 -  **Working :** Flutter :blue_heart: | Android
--  **Learning :** GCP | AWS | React-Native <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
--  **Languages :** C++, C, Dart, JAVA
+-  **Learning :** GCP | AWS | React <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+-  **Languages :** C++, C, Dart, Python, JAVA
 -  **Hobbies :** Coding :computer: & Sketching :sparkles:
 -  **Fact :** I am not a tea person or a coffee person either 😉
 
